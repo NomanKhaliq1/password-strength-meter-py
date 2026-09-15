@@ -1,0 +1,16 @@
+{
+  "title": "Password Strength Meter",
+  "description": "Streamlit password strength checker scoring entries with zxcvbn.",
+  "techTags": [
+    "Python",
+    "Streamlit",
+    "zxcvbn"
+  ],
+  "source": "github",
+  "category": "Python",
+  "live_url": "",
+  "repo_name": "password-strength-meter-py",
+  "repo_link": true,
+  "image": "",
+  "fetch": false
+}
